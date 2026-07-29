@@ -47,7 +47,7 @@ Investors often struggle to balance risk and return when selecting mutual funds,
 
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Mutual_Funds_Dashboard_Image.png)
 
 ---
 
